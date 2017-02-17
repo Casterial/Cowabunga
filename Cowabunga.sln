@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cowabunga.Plugins", "Cowabunga.Plugins.csproj", "{BD3B233B-0714-FCF1-3C1B-C3217FA4C940}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cowabunga", "Cowabunga.csproj", "{D215288F-862E-2C38-D167-F83860098479}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cowabunga.Editor", "Cowabunga.Editor.csproj", "{9800EBC9-DC13-DE5A-696A-9852B2E5CEDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD3B233B-0714-FCF1-3C1B-C3217FA4C940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD3B233B-0714-FCF1-3C1B-C3217FA4C940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD3B233B-0714-FCF1-3C1B-C3217FA4C940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD3B233B-0714-FCF1-3C1B-C3217FA4C940}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D215288F-862E-2C38-D167-F83860098479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D215288F-862E-2C38-D167-F83860098479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D215288F-862E-2C38-D167-F83860098479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D215288F-862E-2C38-D167-F83860098479}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9800EBC9-DC13-DE5A-696A-9852B2E5CEDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9800EBC9-DC13-DE5A-696A-9852B2E5CEDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9800EBC9-DC13-DE5A-696A-9852B2E5CEDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9800EBC9-DC13-DE5A-696A-9852B2E5CEDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
