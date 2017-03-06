@@ -12,13 +12,12 @@ public class CowSpawner : MonoBehaviour
     {
         enemies = GameObject.FindGameObjectsWithTag("Enemy");
         amount = enemies.Length;
-
         if (amount != 45)//#of spawn
         {
             InvokeRepeating("spawnEnemy", 1, 5f);
         }
-
     }
+    //function for spawning enemies.
     void spawnEnemy()
     {
         float randomPointX = Random.insideUnitCircle.x * 50;
